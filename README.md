@@ -1,5 +1,8 @@
-### Distribuição discreta de probabilidade 
+### Distribuição discreta de probabilidade
+<hr class="style1">
 
-**Utilizando noções de distribuição de discreta de probabilidade para analisar os dados da Maternidade Frei Damião em João Pessoa.**
+Esse trabalho utiliza de noções de distribuição discreta de probabilidade para analisar os dados da Maternidade Frei Damião em João Pessoa. 
 
-Há nesse repositório um arquivo.R com os exercícios propostos e a base de dados. 
+Esse repositório possui um script em R com a análise de dados e base utilizada. 
+
+
